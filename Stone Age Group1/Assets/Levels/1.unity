@@ -14828,7 +14828,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd65dbbb645371542b9db757e25fd26f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerSpeed: 600
+  playerSpeed: 1000
   playerJumpForce: 8
   animObject: {fileID: 6072397310390058479}
   animator: {fileID: 6131552471546627475}
