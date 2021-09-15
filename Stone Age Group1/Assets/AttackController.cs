@@ -40,7 +40,6 @@ public class AttackController : MonoBehaviour
         }
     }
 
-
     public void OnTriggerEnter2D(Collider2D collision)
     {
         if (!IsHit)
