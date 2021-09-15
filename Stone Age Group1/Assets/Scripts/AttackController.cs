@@ -5,7 +5,7 @@ using UnityEngine;
 public class AttackController : MonoBehaviour
 {
     public bool IsHit { get; private set; }
-    // Start is called before the first frame update
+ 
     void Start()
     {
         
